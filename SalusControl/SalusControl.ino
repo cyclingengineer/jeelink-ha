@@ -1,6 +1,6 @@
 // @dir SalusControl
 
-#include <JeeLib_raw.h>
+#include <JeelinkHa.h>
 
 #define SALUS_CMD_LEN_BYTES        4
 
