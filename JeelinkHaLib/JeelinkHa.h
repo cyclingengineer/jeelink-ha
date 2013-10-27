@@ -10,6 +10,3 @@
 #include <JeelinkHaRF12.h>
 
 #endif
-
-/// @dir examples
-/// Contains all example sketches, this is automatically scanned by the IDE.
